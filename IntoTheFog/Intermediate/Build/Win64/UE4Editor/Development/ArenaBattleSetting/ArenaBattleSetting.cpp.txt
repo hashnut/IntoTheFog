@@ -1,0 +1,2 @@
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\Definitions.ArenaBattleSetting.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Source\ArenaBattleSetting\Public\ArenaBattleSetting.h

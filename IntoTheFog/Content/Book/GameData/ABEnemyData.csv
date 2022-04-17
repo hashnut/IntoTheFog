@@ -1,0 +1,10 @@
+Name,Monster,MaxHP,Attack,DropExp
+Spider_Creature_Spider,Spider_Creature_Spider,50,5,10
+Wolf_Base,Wolf_Base,80,10,25
+Wolf_Armored,Wolf_Armored,120,15,45
+Spider_Great_Spider,Spider_Great_Spider,150,20,70
+Bear,Bear,200,30,100
+Golem,Golem,300,40,150
+MasterGrunt,MasterGrunt,450,55,200
+Troll,Troll,800,80,500
+FrostGiant,FrostGiant,1300,100,1000

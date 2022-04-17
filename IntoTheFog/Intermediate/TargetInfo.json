@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ArenaBattle",
+			"Path": "C:\\Users\\ejrrb\\OneDrive\\Documents\\My_Unreal_Projects\\WithTheLight\\WithTheLight\\Source\\ArenaBattle.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ArenaBattleEditor",
+			"Path": "C:\\Users\\ejrrb\\OneDrive\\Documents\\My_Unreal_Projects\\WithTheLight\\WithTheLight\\Source\\ArenaBattleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
