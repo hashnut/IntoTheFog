@@ -32,10 +32,10 @@
 /wd4244
 /wd4838
 /I .
-/I C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Source\ArenaBattle\Private
-/I C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattleSetting
-/I C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Source
-/I C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Source\ArenaBattleSetting\Public
+/I C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Source\ArenaBattle\Private
+/I C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattleSetting
+/I C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Source
+/I C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Source\ArenaBattleSetting\Public
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -235,8 +235,8 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle
-/I C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Source\ArenaBattle\Public
+/I C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle
+/I C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Source\ArenaBattle\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -266,12 +266,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Source\ArenaBattle\Private\ABHUDWidget.cpp"
-/FI"C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\Definitions.ArenaBattle.h"
-/Fo"C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABHUDWidget.cpp.obj"
+/FI"C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Source\ArenaBattle\Private\ABHUDWidget.cpp"
+/FI"C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\Definitions.ArenaBattle.h"
+/Fo"C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABHUDWidget.cpp.obj"
 /TP
 /GR-
 /W4

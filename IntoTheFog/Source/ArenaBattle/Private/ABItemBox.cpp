@@ -68,7 +68,6 @@ AABItemBox::AABItemBox()
 		WeaponItemClass = AABWeaponTwoHand::StaticClass();
 	}
 
-	//WeaponItemClass = AABWeapon::StaticClass();
 }
 
 // Called when the game starts or when spawned

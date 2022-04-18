@@ -1,0 +1,101 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog).
+  Creating makefile for ArenaBattleEditor (no existing makefile)
+  Parsing headers for ArenaBattleEditor
+    Running UnrealHeaderTool "C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\ArenaBattle.uproject" "C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\ejrrb\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for ArenaBattleEditor in 7.1093889 seconds
+  Building ArenaBattleEditor...
+  Using Visual Studio 2019 14.29.30141 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 85 actions with 12 processes...
+    [1/85] Default.rc2
+    [2/85] Default.rc2
+    [3/85] SharedPCH.Engine.ShadowErrors.cpp
+    [4/85] ArenaBattleSetting.cpp
+    [5/85] ArenaBattleSetting.init.gen.cpp
+    [6/85] ABEarthSetting.cpp
+    [7/85] ABEnemySetting.cpp
+    [8/85] ABItemSetting.cpp
+    [9/85] ABTwoHandSetting.cpp
+    [10/85] ABOneHandSetting.cpp
+    [11/85] ABEarthSetting.gen.cpp
+    [12/85] ABEnemySetting.gen.cpp
+    [13/85] ABTwoHandSetting.gen.cpp
+    [14/85] ABItemSetting.gen.cpp
+    [15/85] ABCharacterSetting.gen.cpp
+    [16/85] ABCharacterSetting.cpp
+    [17/85] BTTask_FindPatrolPos.gen.cpp
+    [18/85] ABUIPlayerController.gen.cpp
+    [19/85] ABEarth.gen.cpp
+    [20/85] ABGameState.gen.cpp
+    [21/85] BTDecorator_IsInAttackRange.gen.cpp
+    [22/85] ABPlayerState.cpp
+    [23/85] BTService_Detect.gen.cpp
+    [24/85] BTTask_Attack.gen.cpp
+    [25/85] ABSaveGame.cpp
+    [26/85] ArenaBattle.init.gen.cpp
+    [27/85] ABCharacterWidget.gen.cpp
+    [28/85] ABPlayerController.gen.cpp
+    [29/85] ABAIController.cpp
+    [30/85] ABCharacterSelectWidget.cpp
+    [31/85] ABWeaponTwoHand.gen.cpp
+    [32/85] ABItemBox.cpp
+    [33/85] ABItemBox.gen.cpp
+    [34/85] ABHealthPotion.gen.cpp
+    [35/85] ABPlayerState.gen.cpp
+    [36/85] BTTask_Attack.cpp
+    [37/85] ArenaBattle.cpp
+    [38/85] ABAnimInstance.gen.cpp
+    [39/85] ABCharacterStatComponent.gen.cpp
+    [40/85] ABAnimInstance.cpp
+    [41/85] ABCharacterStatComponent.cpp
+    [42/85] ABSection.cpp
+    [43/85] BTService_Detect.cpp
+    [44/85] ABCharacterSelectWidget.gen.cpp
+    [45/85] ABCharacter.cpp
+    [46/85] ABWeapon.cpp
+    [47/85] ABPawn.cpp
+    [48/85] ABPlayerController.cpp
+    [49/85] BTTask_FindPatrolPos.cpp
+    [50/85] ABWeaponTwoHand.cpp
+    [51/85] ABSaveGame.gen.cpp
+    [52/85] ABTree.cpp
+    [53/85] ABGameMode.gen.cpp
+    [54/85] ABUIPlayerController.cpp
+    [55/85] ABHUDWidget.gen.cpp
+    [56/85] ABGameState.cpp
+    [57/85] ABGameplayWidget.gen.cpp
+    [58/85] ABGameplayResultWidget.gen.cpp
+    [59/85] ABHealthPotion.cpp
+    [60/85] ABGameInstance.gen.cpp
+    [61/85] ABWeapon.gen.cpp
+    [62/85] ABGameplayWidget.cpp
+    [63/85] BTTask_TurnToTarget.gen.cpp
+    [64/85] ABHUDWidget.cpp
+    [65/85] ArenaBattle.gen.cpp
+    [66/85] ABGameMode.cpp
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Source\ArenaBattle\Private\ABGameMode.cpp(52): warning C4996: 'UWorld::GetPawnIterator': The PawnIterator is an inefficient mechanism for iterating pawns. Please use TActorIterator<PawnType> instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+    [67/85] ABSection.gen.cpp
+    [68/85] ABCharacterWidget.cpp
+    [69/85] BTTask_TurnToTarget.cpp
+    [70/85] ABGameplayResultWidget.cpp
+    [71/85] ABGameInstance.cpp
+    [72/85] ABWeaponOneHand.gen.cpp
+    [73/85] ABCharacter.gen.cpp
+    [74/85] ABOneHandSetting.gen.cpp
+    [75/85] UE4Editor-ArenaBattleSetting.lib
+       Creating library C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting.lib and object C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting.exp
+    [76/85] ABTree.gen.cpp
+    [77/85] BTDecorator_IsInAttackRange.cpp
+    [78/85] UE4Editor-ArenaBattleSetting.dll
+       Creating library C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting.suppressed.lib and object C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting.suppressed.exp
+    [79/85] ABWeaponOneHand.cpp
+    [80/85] ABAIController.gen.cpp
+    [81/85] ABEarth.cpp
+    [82/85] ABPawn.gen.cpp
+    [83/85] UE4Editor-ArenaBattle.lib
+       Creating library C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle.lib and object C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle.exp
+    [84/85] UE4Editor-ArenaBattle.dll
+       Creating library C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle.suppressed.lib and object C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle.suppressed.exp
+    [85/85] ArenaBattleEditor.target
+  Total time in Parallel executor: 65.13 seconds
+  Total execution time: 75.24 seconds

@@ -17,20 +17,20 @@ struct FHitResult;
 #endif
 #define ARENABATTLE_ABItemBox_generated_h
 
-#define WithTheLight_Source_ArenaBattle_Public_ABItemBox_h_12_SPARSE_DATA
-#define WithTheLight_Source_ArenaBattle_Public_ABItemBox_h_12_RPC_WRAPPERS \
+#define IntoTheFog_Source_ArenaBattle_Public_ABItemBox_h_12_SPARSE_DATA
+#define IntoTheFog_Source_ArenaBattle_Public_ABItemBox_h_12_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execOnEffectFinished); \
 	DECLARE_FUNCTION(execOnCharacterOverlap);
 
 
-#define WithTheLight_Source_ArenaBattle_Public_ABItemBox_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+#define IntoTheFog_Source_ArenaBattle_Public_ABItemBox_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execOnEffectFinished); \
 	DECLARE_FUNCTION(execOnCharacterOverlap);
 
 
-#define WithTheLight_Source_ArenaBattle_Public_ABItemBox_h_12_INCLASS_NO_PURE_DECLS \
+#define IntoTheFog_Source_ArenaBattle_Public_ABItemBox_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAABItemBox(); \
 	friend struct Z_Construct_UClass_AABItemBox_Statics; \
@@ -39,7 +39,7 @@ public: \
 	DECLARE_SERIALIZER(AABItemBox)
 
 
-#define WithTheLight_Source_ArenaBattle_Public_ABItemBox_h_12_INCLASS \
+#define IntoTheFog_Source_ArenaBattle_Public_ABItemBox_h_12_INCLASS \
 private: \
 	static void StaticRegisterNativesAABItemBox(); \
 	friend struct Z_Construct_UClass_AABItemBox_Statics; \
@@ -48,7 +48,7 @@ public: \
 	DECLARE_SERIALIZER(AABItemBox)
 
 
-#define WithTheLight_Source_ArenaBattle_Public_ABItemBox_h_12_STANDARD_CONSTRUCTORS \
+#define IntoTheFog_Source_ArenaBattle_Public_ABItemBox_h_12_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AABItemBox(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AABItemBox) \
@@ -61,7 +61,7 @@ private: \
 public:
 
 
-#define WithTheLight_Source_ArenaBattle_Public_ABItemBox_h_12_ENHANCED_CONSTRUCTORS \
+#define IntoTheFog_Source_ArenaBattle_Public_ABItemBox_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AABItemBox(AABItemBox&&); \
@@ -72,31 +72,31 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AABItemBox)
 
 
-#define WithTheLight_Source_ArenaBattle_Public_ABItemBox_h_12_PRIVATE_PROPERTY_OFFSET \
+#define IntoTheFog_Source_ArenaBattle_Public_ABItemBox_h_12_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__ItemPickup() { return STRUCT_OFFSET(AABItemBox, ItemPickup); }
 
 
-#define WithTheLight_Source_ArenaBattle_Public_ABItemBox_h_9_PROLOG
-#define WithTheLight_Source_ArenaBattle_Public_ABItemBox_h_12_GENERATED_BODY_LEGACY \
+#define IntoTheFog_Source_ArenaBattle_Public_ABItemBox_h_9_PROLOG
+#define IntoTheFog_Source_ArenaBattle_Public_ABItemBox_h_12_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	WithTheLight_Source_ArenaBattle_Public_ABItemBox_h_12_PRIVATE_PROPERTY_OFFSET \
-	WithTheLight_Source_ArenaBattle_Public_ABItemBox_h_12_SPARSE_DATA \
-	WithTheLight_Source_ArenaBattle_Public_ABItemBox_h_12_RPC_WRAPPERS \
-	WithTheLight_Source_ArenaBattle_Public_ABItemBox_h_12_INCLASS \
-	WithTheLight_Source_ArenaBattle_Public_ABItemBox_h_12_STANDARD_CONSTRUCTORS \
+	IntoTheFog_Source_ArenaBattle_Public_ABItemBox_h_12_PRIVATE_PROPERTY_OFFSET \
+	IntoTheFog_Source_ArenaBattle_Public_ABItemBox_h_12_SPARSE_DATA \
+	IntoTheFog_Source_ArenaBattle_Public_ABItemBox_h_12_RPC_WRAPPERS \
+	IntoTheFog_Source_ArenaBattle_Public_ABItemBox_h_12_INCLASS \
+	IntoTheFog_Source_ArenaBattle_Public_ABItemBox_h_12_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define WithTheLight_Source_ArenaBattle_Public_ABItemBox_h_12_GENERATED_BODY \
+#define IntoTheFog_Source_ArenaBattle_Public_ABItemBox_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	WithTheLight_Source_ArenaBattle_Public_ABItemBox_h_12_PRIVATE_PROPERTY_OFFSET \
-	WithTheLight_Source_ArenaBattle_Public_ABItemBox_h_12_SPARSE_DATA \
-	WithTheLight_Source_ArenaBattle_Public_ABItemBox_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
-	WithTheLight_Source_ArenaBattle_Public_ABItemBox_h_12_INCLASS_NO_PURE_DECLS \
-	WithTheLight_Source_ArenaBattle_Public_ABItemBox_h_12_ENHANCED_CONSTRUCTORS \
+	IntoTheFog_Source_ArenaBattle_Public_ABItemBox_h_12_PRIVATE_PROPERTY_OFFSET \
+	IntoTheFog_Source_ArenaBattle_Public_ABItemBox_h_12_SPARSE_DATA \
+	IntoTheFog_Source_ArenaBattle_Public_ABItemBox_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+	IntoTheFog_Source_ArenaBattle_Public_ABItemBox_h_12_INCLASS_NO_PURE_DECLS \
+	IntoTheFog_Source_ArenaBattle_Public_ABItemBox_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -104,7 +104,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> ARENABATTLE_API UClass* StaticClass<class AABItemBox>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID WithTheLight_Source_ArenaBattle_Public_ABItemBox_h
+#define CURRENT_FILE_ID IntoTheFog_Source_ArenaBattle_Public_ABItemBox_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

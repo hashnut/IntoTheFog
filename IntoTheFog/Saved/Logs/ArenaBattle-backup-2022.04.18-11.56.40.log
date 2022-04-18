@@ -1,0 +1,559 @@
+﻿Log file open, 04/18/22 20:55:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ArenaBattle
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.549967
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin ActorPalette
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AjaMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaIOFramework
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin Adjust
+LogPluginManager: Mounting plugin AnalyticsBlueprintLibrary
+LogPluginManager: Mounting plugin ADOSupport
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin AESHandlerComponent
+LogPluginManager: Mounting plugin AESGCMHandlerComponent
+LogPluginManager: Mounting plugin SteamVR
+LogInit: Warning: Incompatible or missing module: ArenaBattleSetting
+LogInit: Warning: Incompatible or missing module: ArenaBattle
+Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe Development Win64 -Project="C:/Users/ejrrb/OneDrive/Documents/My_Unreal_Projects/IntoTheFog_Clean/IntoTheFog/IntoTheFog/ArenaBattle.uproject" -TargetType=Editor -Progress -NoEngineChanges -NoHotReloadFromIDE
+Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog).
+@progress push 5%
+@progress pop
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting.lib is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABItemBox.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ABTwoHandSetting.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABGameplayWidget.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABPlayerState.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABGameInstance.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ABTwoHandSetting.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABUIPlayerController.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABAIController.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABUIPlayerController.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABGameplayWidget.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABGameInstance.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABItemBox.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ABTwoHandSetting.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABCharacterSelectWidget.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABWeaponTwoHand.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ABTwoHandSetting.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABPlayerState.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABAIController.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABWeaponTwoHand.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABCharacterSelectWidget.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABGameState.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABGameState.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABHealthPotion.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABWeapon.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ABCharacterSetting.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABGameMode.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ArenaBattle.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABHealthPotion.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABGameMode.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ArenaBattleSetting.init.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ABCharacterSetting.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABWeapon.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ArenaBattle.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ABEarthSetting.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\BTDecorator_IsInAttackRange.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABCharacterStatComponent.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ABEarthSetting.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ArenaBattleSetting.init.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ArenaBattleSetting.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABWeaponOneHand.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\BTDecorator_IsInAttackRange.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\BTService_Detect.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABGameplayResultWidget.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ArenaBattleSetting.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABAnimInstance.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABPawn.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABCharacterStatComponent.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ABEnemySetting.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\Default.rc2.res is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABWeaponOneHand.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABGameplayResultWidget.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ABCharacterSetting.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\BTService_Detect.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ABEnemySetting.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ABItemSetting.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABCharacterWidget.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABCharacterWidget.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABEarth.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABGameplayWidget.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABEarth.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ABCharacterSetting.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABSaveGame.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABAnimInstance.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABHUDWidget.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABPawn.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ABItemSetting.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABWeaponTwoHand.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABGameplayWidget.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ABEarthSetting.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Binaries\Win64\UE4Editor-ArenaBattle.dll is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ABOneHandSetting.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABWeaponTwoHand.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ArenaBattle.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Binaries\Win64\UE4Editor-ArenaBattle.pdb is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ArenaBattle.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABPlayerController.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABAIController.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABGameState.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ArenaBattle.init.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABPlayerController.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABPlayerState.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABSaveGame.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\BTTask_Attack.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABGameInstance.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ABEarthSetting.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABHUDWidget.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABCharacter.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ABOneHandSetting.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABAIController.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABGameState.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ArenaBattle.init.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABCharacter.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABCharacterSelectWidget.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\BTTask_Attack.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABItemBox.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABPlayerState.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABGameInstance.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABSection.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABAnimInstance.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABHealthPotion.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABTree.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\BTDecorator_IsInAttackRange.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ABEnemySetting.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABCharacterSelectWidget.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\BTTask_FindPatrolPos.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABItemBox.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABSaveGame.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABSection.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABAnimInstance.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABCharacterStatComponent.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABGameMode.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ABEnemySetting.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABPawn.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\BTDecorator_IsInAttackRange.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABGameMode.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABHealthPotion.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABCharacterStatComponent.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABCharacterWidget.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABTree.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\BTTask_FindPatrolPos.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABSaveGame.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABCharacter.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ABItemSetting.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABPawn.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\BTService_Detect.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABGameplayResultWidget.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABCharacterWidget.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABEarth.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABHUDWidget.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ABItemSetting.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ABOneHandSetting.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABEarth.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABCharacter.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABSection.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\BTService_Detect.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABSection.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABTree.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABGameplayResultWidget.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Binaries\Win64\ArenaBattleEditor.target is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\ABOneHandSetting.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABHUDWidget.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABTree.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\BTTask_TurnToTarget.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABUIPlayerController.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\BTTask_Attack.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABUIPlayerController.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABWeapon.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Binaries\Win64\UE4Editor.modules is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABPlayerController.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle.lib is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABPlayerController.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\BTTask_Attack.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\BTTask_FindPatrolPos.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABWeapon.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\BTTask_TurnToTarget.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\BTTask_FindPatrolPos.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\BTTask_TurnToTarget.gen.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABWeaponOneHand.cpp.obj is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\BTTask_TurnToTarget.gen.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\Default.rc2.res is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\ABWeaponOneHand.cpp.txt is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Binaries\Win64\UE4Editor-ArenaBattleSetting.dll is not under any action history root directory
+WARNING: File C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Binaries\Win64\UE4Editor-ArenaBattleSetting.pdb is not under any action history root directory
+Building ArenaBattleEditor...
+Using Visual Studio 2019 14.29.30141 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Building 83 actions with 12 processes...
+  @progress 'Compiling C++ source code...' 0%
+  @progress 'Compiling C++ source code...' 1%
+  [1/83] SharedPCH.Engine.ShadowErrors.cpp
+  @progress 'Compiling C++ source code...' 2%
+  [2/83] ArenaBattleSetting.cpp
+  @progress 'Compiling C++ source code...' 4%
+  [3/83] ArenaBattleSetting.init.gen.cpp
+  @progress 'Compiling C++ source code...' 5%
+  [4/83] ABTwoHandSetting.cpp
+  @progress 'Compiling C++ source code...' 6%
+  [5/83] ABEarthSetting.gen.cpp
+  @progress 'Compiling C++ source code...' 7%
+  [6/83] ABEnemySetting.cpp
+  @progress 'Compiling C++ source code...' 8%
+  [7/83] ABItemSetting.cpp
+  @progress 'Compiling C++ source code...' 10%
+  [8/83] ABEarthSetting.cpp
+  @progress 'Compiling C++ source code...' 11%
+  [9/83] ABOneHandSetting.cpp
+  @progress 'Compiling C++ source code...' 12%
+  [10/83] ABEnemySetting.gen.cpp
+  @progress 'Compiling C++ source code...' 13%
+  [11/83] ABCharacterSetting.cpp
+  @progress 'Compiling C++ source code...' 14%
+  [12/83] ABCharacterSetting.gen.cpp
+  @progress 'Compiling C++ source code...' 16%
+  [13/83] ABTwoHandSetting.gen.cpp
+  @progress 'Compiling C++ source code...' 17%
+  [14/83] ABOneHandSetting.gen.cpp
+  @progress 'Compiling C++ source code...' 18%
+  [15/83] ABCharacterStatComponent.gen.cpp
+  @progress 'Compiling C++ source code...' 19%
+  [16/83] ABItemBox.cpp
+  @progress 'Compiling C++ source code...' 20%
+  [17/83] BTDecorator_IsInAttackRange.gen.cpp
+  @progress 'Compiling C++ source code...' 22%
+  [18/83] ABHealthPotion.gen.cpp
+  @progress 'Compiling C++ source code...' 23%
+  [19/83] ABGameMode.cpp
+  C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Source\ArenaBattle\Private\ABGameMode.cpp(52): warning C4996: 'UWorld::GetPawnIterator': The PawnIterator is an inefficient mechanism for iterating pawns. Please use TActorIterator<PawnType> instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+  @progress 'Compiling C++ source code...' 24%
+  [20/83] ABAnimInstance.cpp
+  @progress 'Compiling C++ source code...' 25%
+  [21/83] ABEarth.gen.cpp
+  @progress 'Compiling C++ source code...' 27%
+  [22/83] ABSection.cpp
+  @progress 'Compiling C++ source code...' 28%
+  [23/83] ABGameInstance.cpp
+  @progress 'Compiling C++ source code...' 29%
+  [24/83] BTTask_FindPatrolPos.gen.cpp
+  @progress 'Compiling C++ source code...' 30%
+  [25/83] ABTree.cpp
+  @progress 'Compiling C++ source code...' 31%
+  [26/83] ABCharacterSelectWidget.gen.cpp
+  @progress 'Compiling C++ source code...' 33%
+  [27/83] ABCharacterWidget.gen.cpp
+  @progress 'Compiling C++ source code...' 34%
+  [28/83] ABSaveGame.gen.cpp
+  @progress 'Compiling C++ source code...' 35%
+  [29/83] ABWeapon.cpp
+  @progress 'Compiling C++ source code...' 36%
+  [30/83] BTTask_TurnToTarget.cpp
+  @progress 'Compiling C++ source code...' 37%
+  [31/83] BTTask_TurnToTarget.gen.cpp
+  @progress 'Compiling C++ source code...' 39%
+  [32/83] BTTask_Attack.gen.cpp
+  @progress 'Compiling C++ source code...' 40%
+  [33/83] ABTree.gen.cpp
+  @progress 'Compiling C++ source code...' 41%
+  [34/83] ABGameplayResultWidget.cpp
+  @progress 'Compiling C++ source code...' 42%
+  [35/83] ABPlayerController.cpp
+  @progress 'Compiling C++ source code...' 43%
+  [36/83] ABPawn.cpp
+  @progress 'Compiling C++ source code...' 45%
+  [37/83] BTService_Detect.gen.cpp
+  @progress 'Compiling C++ source code...' 46%
+  [38/83] ABHUDWidget.gen.cpp
+  @progress 'Compiling C++ source code...' 47%
+  [39/83] ABGameState.gen.cpp
+  @progress 'Compiling C++ source code...' 48%
+  [40/83] ABUIPlayerController.cpp
+  @progress 'Compiling C++ source code...' 49%
+  [41/83] ABSection.gen.cpp
+  @progress 'Compiling C++ source code...' 51%
+  [42/83] BTTask_FindPatrolPos.cpp
+  @progress 'Compiling C++ source code...' 52%
+  [43/83] ABCharacter.gen.cpp
+  @progress 'Compiling C++ source code...' 53%
+  [44/83] ABPlayerState.gen.cpp
+  @progress 'Compiling C++ source code...' 54%
+  [45/83] ABGameInstance.gen.cpp
+  @progress 'Compiling C++ source code...' 55%
+  [46/83] ABGameState.cpp
+  @progress 'Compiling C++ source code...' 57%
+  [47/83] ABWeaponTwoHand.cpp
+  @progress 'Compiling C++ source code...' 58%
+  [48/83] ABUIPlayerController.gen.cpp
+  @progress 'Compiling C++ source code...' 59%
+  [49/83] ABAIController.cpp
+  @progress 'Compiling C++ source code...' 60%
+  [50/83] ABAIController.gen.cpp
+  @progress 'Compiling C++ source code...' 61%
+  [51/83] ABGameplayWidget.cpp
+  @progress 'Compiling C++ source code...' 63%
+  [52/83] ABCharacter.cpp
+  @progress 'Compiling C++ source code...' 64%
+  [53/83] ArenaBattle.cpp
+  @progress 'Compiling C++ source code...' 65%
+  [54/83] ABWeapon.gen.cpp
+  @progress 'Compiling C++ source code...' 66%
+  [55/83] ABCharacterSelectWidget.cpp
+  @progress 'Compiling C++ source code...' 67%
+  [56/83] ABItemBox.gen.cpp
+  @progress 'Compiling C++ source code...' 69%
+  [57/83] ArenaBattle.init.gen.cpp
+  @progress 'Compiling C++ source code...' 70%
+  [58/83] ABGameMode.gen.cpp
+  @progress 'Compiling C++ source code...' 71%
+  [59/83] ABSaveGame.cpp
+  @progress 'Compiling C++ source code...' 72%
+  [60/83] ABHealthPotion.cpp
+  @progress 'Compiling C++ source code...' 73%
+  [61/83] ABPlayerState.cpp
+  @progress 'Compiling C++ source code...' 75%
+  [62/83] BTDecorator_IsInAttackRange.cpp
+  @progress 'Compiling C++ source code...' 76%
+  [63/83] ABCharacterStatComponent.cpp
+  @progress 'Compiling C++ source code...' 77%
+  [64/83] ABWeaponOneHand.cpp
+  @progress 'Compiling C++ source code...' 78%
+  [65/83] ABPlayerController.gen.cpp
+  @progress 'Compiling C++ source code...' 80%
+  [66/83] BTTask_Attack.cpp
+  @progress 'Compiling C++ source code...' 81%
+  [67/83] ABWeaponOneHand.gen.cpp
+  @progress 'Compiling C++ source code...' 82%
+  [68/83] ABCharacterWidget.cpp
+  @progress 'Compiling C++ source code...' 83%
+  [69/83] ABHUDWidget.cpp
+  @progress 'Compiling C++ source code...' 84%
+  [70/83] ArenaBattle.gen.cpp
+  @progress 'Compiling C++ source code...' 86%
+  [71/83] ABWeaponTwoHand.gen.cpp
+  @progress 'Compiling C++ source code...' 87%
+  [72/83] ABAnimInstance.gen.cpp
+  @progress 'Compiling C++ source code...' 88%
+  [73/83] ABEarth.cpp
+  @progress 'Compiling C++ source code...' 89%
+  [74/83] ABItemSetting.gen.cpp
+  @progress 'Compiling C++ source code...' 90%
+  [75/83] UE4Editor-ArenaBattleSetting.lib
+     Creating library C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting.lib and object C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting.exp
+  @progress 'Compiling C++ source code...' 92%
+  [76/83] ABGameplayWidget.gen.cpp
+  @progress 'Compiling C++ source code...' 93%
+  [77/83] UE4Editor-ArenaBattleSetting.dll
+     Creating library C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting.suppressed.lib and object C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattleSetting\UE4Editor-ArenaBattleSetting.suppressed.exp
+  @progress 'Compiling C++ source code...' 94%
+  [78/83] ABPawn.gen.cpp
+  @progress 'Compiling C++ source code...' 95%
+  [79/83] ABGameplayResultWidget.gen.cpp
+  @progress 'Compiling C++ source code...' 96%
+  [80/83] BTService_Detect.cpp
+  @progress 'Compiling C++ source code...' 98%
+  [81/83] UE4Editor-ArenaBattle.lib
+     Creating library C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle.lib and object C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle.exp
+  @progress 'Compiling C++ source code...' 99%
+  [82/83] UE4Editor-ArenaBattle.dll
+     Creating library C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle.suppressed.lib and object C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\UE4Editor-ArenaBattle.suppressed.exp
+  @progress 'Compiling C++ source code...' 100%
+  [83/83] ArenaBattleEditor.target
+Total time in Parallel executor: 70.51 seconds
+Total execution time: 72.92 seconds
+LogInit: Warning: Still incompatible or missing module: ArenaBattleSetting
+LogInit: Warning: Still incompatible or missing module: ArenaBattle
+LogCore: Engine exit requested (reason: EngineExit() was called)
+LogExit: Preparing to exit.
+LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (46)
+LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (44)
+LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (40)
+LogModuleManager: Shutting down and abandoning module PlatformCrypto (38)
+LogModuleManager: Shutting down and abandoning module XGEController (36)
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogXGEController: Cleaning working directory: C:/Users/ejrrb/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+LogModuleManager: Shutting down and abandoning module RenderCore (26)
+LogModuleManager: Shutting down and abandoning module Landscape (24)
+LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+LogModuleManager: Shutting down and abandoning module Renderer (18)
+LogModuleManager: Shutting down and abandoning module Engine (16)
+LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+LogModuleManager: Shutting down and abandoning module PakFile (4)
+LogModuleManager: Shutting down and abandoning module RSA (3)
+LogExit: Exiting.
+Log file closed, 04/18/22 20:56:40

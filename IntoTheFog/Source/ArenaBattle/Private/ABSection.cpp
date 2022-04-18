@@ -109,7 +109,7 @@ AABSection::AABSection()
 
 	EnemySpawnTime = 1.0f;
 	NumberOfNpc = 3;
-	
+
 	ItemBoxSpawnTime = 0.5f;
 	NumberOfBox = 30;
 
@@ -118,6 +118,8 @@ AABSection::AABSection()
 
 	PotionSpawnTime = 0.5f;
 	NumberOfPotion = 30;
+
+	NpcAndItemSpawned = false;
 }
 
 void AABSection::OnConstruction(const FTransform& Transform)
@@ -152,14 +154,14 @@ void AABSection::SetState(ESectionState NewState)
 	{
 		case ESectionState::BATTLE:
 		{
-			for (UBoxComponent* GateTrigger : GateTriggers)
+			if (!NpcAndItemSpawned)
 			{
-				GateTrigger->SetCollisionProfileName(TEXT("ABTrigger"));
+				GetWorld()->GetTimerManager().SetTimer(SpawnNPCTimerHandle, FTimerDelegate::CreateUObject(this, &AABSection::OnNPCSpawn), EnemySpawnTime, false);
+				GetWorld()->GetTimerManager().SetTimer(SpawnItemBoxTimerHandle, FTimerDelegate::CreateUObject(this, &AABSection::OnSpawnItemBox), ItemBoxSpawnTime, false);
+				GetWorld()->GetTimerManager().SetTimer(SpawnPotionTimerHandle, FTimerDelegate::CreateUObject(this, &AABSection::OnSpawnPotion), PotionSpawnTime, false);
 			}
+			NpcAndItemSpawned = true;
 
-			GetWorld()->GetTimerManager().SetTimer(SpawnNPCTimerHandle, FTimerDelegate::CreateUObject(this, &AABSection::OnNPCSpawn), EnemySpawnTime, false);
-			GetWorld()->GetTimerManager().SetTimer(SpawnItemBoxTimerHandle, FTimerDelegate::CreateUObject(this, &AABSection::OnSpawnItemBox), ItemBoxSpawnTime, false);
-			GetWorld()->GetTimerManager().SetTimer(SpawnPotionTimerHandle, FTimerDelegate::CreateUObject(this, &AABSection::OnSpawnPotion), PotionSpawnTime, false);
 		}
 		break;
 		case ESectionState::COMPLETE:
@@ -186,6 +188,9 @@ void AABSection::OnTriggerBeginOverlap(UPrimitiveComponent* OverlappedComponent,
 void AABSection::OnGateTriggerBeginOverlap(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult)
 {
 	ABCHECK(OverlappedComponent->ComponentTags.Num() == 1);
+
+	UBoxComponent* CurrentComponent = Cast<UBoxComponent>(OverlappedComponent);
+	CurrentComponent->SetCollisionProfileName(TEXT("NoCollision"));
 
 	FName ComponentTag = OverlappedComponent->ComponentTags[0];
 	FName SocketName = FName(*ComponentTag.ToString().Left(2));

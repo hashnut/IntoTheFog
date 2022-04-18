@@ -75,6 +75,8 @@ private:
 	int32 NumberOfTree;
 	int32 NumberOfPotion;
 
+	bool NpcAndItemSpawned;
+
 	float SectionRadius = 3090.0f;
 
 	FTimerHandle SpawnNPCTimerHandle = {};

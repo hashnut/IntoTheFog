@@ -1,8 +1,8 @@
-C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\Definitions.ArenaBattle.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\Definitions.ArenaBattle.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Source\ArenaBattle/Public/ABGameplayResultWidget.h
-C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Source\ArenaBattle\Public\ArenaBattle.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Source\ArenaBattle/Public/ABGameplayResultWidget.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Source\ArenaBattle\Public\ArenaBattle.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\EngineMinimal.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\CoreUObject.h
@@ -196,7 +196,7 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
-C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Source\ArenaBattle\Public\ABGameplayWidget.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Source\ArenaBattle\Public\ABGameplayWidget.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\SlateWrapperTypes.generated.h
@@ -294,5 +294,5 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\DynamicPropertyPath.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetBlueprintGeneratedClass.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\UserWidget.generated.h
-C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABGameplayWidget.generated.h
-C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABGameplayResultWidget.generated.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABGameplayWidget.generated.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABGameplayResultWidget.generated.h

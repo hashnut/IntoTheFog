@@ -13,10 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define ARENABATTLE_ABPlayerController_generated_h
 
-#define WithTheLight_Source_ArenaBattle_Public_ABPlayerController_h_15_SPARSE_DATA
-#define WithTheLight_Source_ArenaBattle_Public_ABPlayerController_h_15_RPC_WRAPPERS
-#define WithTheLight_Source_ArenaBattle_Public_ABPlayerController_h_15_RPC_WRAPPERS_NO_PURE_DECLS
-#define WithTheLight_Source_ArenaBattle_Public_ABPlayerController_h_15_INCLASS_NO_PURE_DECLS \
+#define IntoTheFog_Source_ArenaBattle_Public_ABPlayerController_h_15_SPARSE_DATA
+#define IntoTheFog_Source_ArenaBattle_Public_ABPlayerController_h_15_RPC_WRAPPERS
+#define IntoTheFog_Source_ArenaBattle_Public_ABPlayerController_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define IntoTheFog_Source_ArenaBattle_Public_ABPlayerController_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAABPlayerController(); \
 	friend struct Z_Construct_UClass_AABPlayerController_Statics; \
@@ -25,7 +25,7 @@ public: \
 	DECLARE_SERIALIZER(AABPlayerController)
 
 
-#define WithTheLight_Source_ArenaBattle_Public_ABPlayerController_h_15_INCLASS \
+#define IntoTheFog_Source_ArenaBattle_Public_ABPlayerController_h_15_INCLASS \
 private: \
 	static void StaticRegisterNativesAABPlayerController(); \
 	friend struct Z_Construct_UClass_AABPlayerController_Statics; \
@@ -34,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(AABPlayerController)
 
 
-#define WithTheLight_Source_ArenaBattle_Public_ABPlayerController_h_15_STANDARD_CONSTRUCTORS \
+#define IntoTheFog_Source_ArenaBattle_Public_ABPlayerController_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AABPlayerController(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AABPlayerController) \
@@ -47,7 +47,7 @@ private: \
 public:
 
 
-#define WithTheLight_Source_ArenaBattle_Public_ABPlayerController_h_15_ENHANCED_CONSTRUCTORS \
+#define IntoTheFog_Source_ArenaBattle_Public_ABPlayerController_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AABPlayerController(AABPlayerController&&); \
@@ -58,7 +58,7 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AABPlayerController)
 
 
-#define WithTheLight_Source_ArenaBattle_Public_ABPlayerController_h_15_PRIVATE_PROPERTY_OFFSET \
+#define IntoTheFog_Source_ArenaBattle_Public_ABPlayerController_h_15_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__HUDWidgetClass() { return STRUCT_OFFSET(AABPlayerController, HUDWidgetClass); } \
 	FORCEINLINE static uint32 __PPO__MenuWidgetClass() { return STRUCT_OFFSET(AABPlayerController, MenuWidgetClass); } \
 	FORCEINLINE static uint32 __PPO__ResultWidgetClass() { return STRUCT_OFFSET(AABPlayerController, ResultWidgetClass); } \
@@ -68,27 +68,27 @@ public: \
 	FORCEINLINE static uint32 __PPO__ResultWidget() { return STRUCT_OFFSET(AABPlayerController, ResultWidget); }
 
 
-#define WithTheLight_Source_ArenaBattle_Public_ABPlayerController_h_12_PROLOG
-#define WithTheLight_Source_ArenaBattle_Public_ABPlayerController_h_15_GENERATED_BODY_LEGACY \
+#define IntoTheFog_Source_ArenaBattle_Public_ABPlayerController_h_12_PROLOG
+#define IntoTheFog_Source_ArenaBattle_Public_ABPlayerController_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	WithTheLight_Source_ArenaBattle_Public_ABPlayerController_h_15_PRIVATE_PROPERTY_OFFSET \
-	WithTheLight_Source_ArenaBattle_Public_ABPlayerController_h_15_SPARSE_DATA \
-	WithTheLight_Source_ArenaBattle_Public_ABPlayerController_h_15_RPC_WRAPPERS \
-	WithTheLight_Source_ArenaBattle_Public_ABPlayerController_h_15_INCLASS \
-	WithTheLight_Source_ArenaBattle_Public_ABPlayerController_h_15_STANDARD_CONSTRUCTORS \
+	IntoTheFog_Source_ArenaBattle_Public_ABPlayerController_h_15_PRIVATE_PROPERTY_OFFSET \
+	IntoTheFog_Source_ArenaBattle_Public_ABPlayerController_h_15_SPARSE_DATA \
+	IntoTheFog_Source_ArenaBattle_Public_ABPlayerController_h_15_RPC_WRAPPERS \
+	IntoTheFog_Source_ArenaBattle_Public_ABPlayerController_h_15_INCLASS \
+	IntoTheFog_Source_ArenaBattle_Public_ABPlayerController_h_15_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define WithTheLight_Source_ArenaBattle_Public_ABPlayerController_h_15_GENERATED_BODY \
+#define IntoTheFog_Source_ArenaBattle_Public_ABPlayerController_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	WithTheLight_Source_ArenaBattle_Public_ABPlayerController_h_15_PRIVATE_PROPERTY_OFFSET \
-	WithTheLight_Source_ArenaBattle_Public_ABPlayerController_h_15_SPARSE_DATA \
-	WithTheLight_Source_ArenaBattle_Public_ABPlayerController_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	WithTheLight_Source_ArenaBattle_Public_ABPlayerController_h_15_INCLASS_NO_PURE_DECLS \
-	WithTheLight_Source_ArenaBattle_Public_ABPlayerController_h_15_ENHANCED_CONSTRUCTORS \
+	IntoTheFog_Source_ArenaBattle_Public_ABPlayerController_h_15_PRIVATE_PROPERTY_OFFSET \
+	IntoTheFog_Source_ArenaBattle_Public_ABPlayerController_h_15_SPARSE_DATA \
+	IntoTheFog_Source_ArenaBattle_Public_ABPlayerController_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	IntoTheFog_Source_ArenaBattle_Public_ABPlayerController_h_15_INCLASS_NO_PURE_DECLS \
+	IntoTheFog_Source_ArenaBattle_Public_ABPlayerController_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -96,7 +96,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> ARENABATTLE_API UClass* StaticClass<class AABPlayerController>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID WithTheLight_Source_ArenaBattle_Public_ABPlayerController_h
+#define CURRENT_FILE_ID IntoTheFog_Source_ArenaBattle_Public_ABPlayerController_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

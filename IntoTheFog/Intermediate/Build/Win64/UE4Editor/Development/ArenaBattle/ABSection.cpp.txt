@@ -1,6 +1,6 @@
-C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\Definitions.ArenaBattle.h
-C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Source\ArenaBattle\Public\ABSection.h
-C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Source\ArenaBattle\Public\ArenaBattle.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\Definitions.ArenaBattle.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Source\ArenaBattle\Public\ABSection.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Source\ArenaBattle\Public\ArenaBattle.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\EngineMinimal.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\CoreUObject.h
@@ -195,31 +195,31 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
-C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABSection.generated.h
-C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Source\ArenaBattle\Public\ABCharacter.h
-C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABCharacter.generated.h
-C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Source\ArenaBattle\Public\ABItemBox.h
-C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABItemBox.generated.h
-C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Source\ArenaBattle\Public\ABPlayerController.h
-C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABPlayerController.generated.h
-C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Source\ArenaBattle\Public\ABGameMode.h
-C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABGameMode.generated.h
-C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Source\ArenaBattleSetting\Public\ABEarthSetting.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABSection.generated.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Source\ArenaBattle\Public\ABCharacter.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABCharacter.generated.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Source\ArenaBattle\Public\ABItemBox.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABItemBox.generated.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Source\ArenaBattle\Public\ABPlayerController.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABPlayerController.generated.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Source\ArenaBattle\Public\ABGameMode.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABGameMode.generated.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Source\ArenaBattleSetting\Public\ABEarthSetting.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
-C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattleSetting\ABEarthSetting.generated.h
-C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Source\ArenaBattle\Public\ABGameInstance.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattleSetting\ABEarthSetting.generated.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Source\ArenaBattle\Public\ABGameInstance.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/StreamableManager.h
-C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABGameInstance.generated.h
-C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Source\ArenaBattle\Public\ABEarth.h
-C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABEarth.generated.h
-C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Source\ArenaBattle\Public\ABTree.h
-C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABTree.generated.h
-C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Source\ArenaBattle\Public\ABHealthPotion.h
-C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\WithTheLight\WithTheLight\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABHealthPotion.generated.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABGameInstance.generated.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Source\ArenaBattle\Public\ABEarth.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABEarth.generated.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Source\ArenaBattle\Public\ABTree.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABTree.generated.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Source\ArenaBattle\Public\ABHealthPotion.h
+C:\Users\ejrrb\OneDrive\Documents\My_Unreal_Projects\IntoTheFog_Clean\IntoTheFog\IntoTheFog\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABHealthPotion.generated.h

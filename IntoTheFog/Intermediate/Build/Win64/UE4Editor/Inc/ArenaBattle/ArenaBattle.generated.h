@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define ARENABATTLE_ArenaBattle_generated_h
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID WithTheLight_Source_ArenaBattle_Public_ArenaBattle_h
+#define CURRENT_FILE_ID IntoTheFog_Source_ArenaBattle_Public_ArenaBattle_h
 
 
 #define FOREACH_ENUM_ECHARACTERSTATE(op) \

@@ -36,7 +36,6 @@ void UBTService_Detect::TickNode(UBehaviorTreeComponent& OwnerComp, uint8* NodeM
 
 	AABCharacter* NPCCharacter = Cast<AABCharacter>(ControllingPawn);
 
-	//OwnerComp.GetBlackboardComponent()->SetValueAsObject(AABAIController::TargetKey, nullptr);
 	if (bResult)
 	{
 		for (auto const& OverlapResult : OverlapResults)

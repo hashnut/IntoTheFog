@@ -13,10 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define ARENABATTLE_ABGameplayResultWidget_generated_h
 
-#define WithTheLight_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_SPARSE_DATA
-#define WithTheLight_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_RPC_WRAPPERS
-#define WithTheLight_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_RPC_WRAPPERS_NO_PURE_DECLS
-#define WithTheLight_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_INCLASS_NO_PURE_DECLS \
+#define IntoTheFog_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_SPARSE_DATA
+#define IntoTheFog_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_RPC_WRAPPERS
+#define IntoTheFog_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define IntoTheFog_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUABGameplayResultWidget(); \
 	friend struct Z_Construct_UClass_UABGameplayResultWidget_Statics; \
@@ -25,7 +25,7 @@ public: \
 	DECLARE_SERIALIZER(UABGameplayResultWidget)
 
 
-#define WithTheLight_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_INCLASS \
+#define IntoTheFog_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_INCLASS \
 private: \
 	static void StaticRegisterNativesUABGameplayResultWidget(); \
 	friend struct Z_Construct_UClass_UABGameplayResultWidget_Statics; \
@@ -34,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(UABGameplayResultWidget)
 
 
-#define WithTheLight_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_STANDARD_CONSTRUCTORS \
+#define IntoTheFog_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UABGameplayResultWidget(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UABGameplayResultWidget) \
@@ -47,7 +47,7 @@ private: \
 public:
 
 
-#define WithTheLight_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_ENHANCED_CONSTRUCTORS \
+#define IntoTheFog_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UABGameplayResultWidget(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -60,28 +60,28 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UABGameplayResultWidget)
 
 
-#define WithTheLight_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_PRIVATE_PROPERTY_OFFSET
-#define WithTheLight_Source_ArenaBattle_Public_ABGameplayResultWidget_h_12_PROLOG
-#define WithTheLight_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_GENERATED_BODY_LEGACY \
+#define IntoTheFog_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_PRIVATE_PROPERTY_OFFSET
+#define IntoTheFog_Source_ArenaBattle_Public_ABGameplayResultWidget_h_12_PROLOG
+#define IntoTheFog_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	WithTheLight_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_PRIVATE_PROPERTY_OFFSET \
-	WithTheLight_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_SPARSE_DATA \
-	WithTheLight_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_RPC_WRAPPERS \
-	WithTheLight_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_INCLASS \
-	WithTheLight_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_STANDARD_CONSTRUCTORS \
+	IntoTheFog_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_PRIVATE_PROPERTY_OFFSET \
+	IntoTheFog_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_SPARSE_DATA \
+	IntoTheFog_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_RPC_WRAPPERS \
+	IntoTheFog_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_INCLASS \
+	IntoTheFog_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define WithTheLight_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_GENERATED_BODY \
+#define IntoTheFog_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	WithTheLight_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_PRIVATE_PROPERTY_OFFSET \
-	WithTheLight_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_SPARSE_DATA \
-	WithTheLight_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	WithTheLight_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_INCLASS_NO_PURE_DECLS \
-	WithTheLight_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_ENHANCED_CONSTRUCTORS \
+	IntoTheFog_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_PRIVATE_PROPERTY_OFFSET \
+	IntoTheFog_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_SPARSE_DATA \
+	IntoTheFog_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	IntoTheFog_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_INCLASS_NO_PURE_DECLS \
+	IntoTheFog_Source_ArenaBattle_Public_ABGameplayResultWidget_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -89,7 +89,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> ARENABATTLE_API UClass* StaticClass<class UABGameplayResultWidget>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID WithTheLight_Source_ArenaBattle_Public_ABGameplayResultWidget_h
+#define CURRENT_FILE_ID IntoTheFog_Source_ArenaBattle_Public_ABGameplayResultWidget_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

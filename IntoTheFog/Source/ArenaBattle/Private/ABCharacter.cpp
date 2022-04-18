@@ -107,7 +107,6 @@ AABCharacter::AABCharacter()
 	ArmLengthSpeed = 3.0f;
 	ArmRotationSpeed = 10.0f;
 	GetCharacterMovement()->JumpZVelocity = 400.0f;
-	//IsAttacking = false;
 	MaxCombo = 4;
 	AttackEndComboState();
 
