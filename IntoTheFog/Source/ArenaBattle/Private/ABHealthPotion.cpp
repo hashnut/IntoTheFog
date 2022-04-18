@@ -115,19 +115,19 @@ void AABHealthPotion::OnCharacterOverlap(UPrimitiveComponent* OverlappedComp, AA
 			case EPotionType::HEALTH:
 			{
 				HPHealPercentage = 1.3f;
-				LevelDownOrNot = FMath::RandRange(1, 100);
+				//LevelDownOrNot = FMath::RandRange(1, 100);
 			}
 			break;
 			case EPotionType::MISC:
 			{
 				HPHealPercentage = FMath::RandRange(1.5f, 1.9f);
-				LevelDownOrNot = FMath::RandRange(1, 105);
+				//LevelDownOrNot = FMath::RandRange(1, 105);
 			}
 			break;
 			case EPotionType::REGEN:
 			{
 				HPHealPercentage = FMath::RandRange(1.0f, 2.0f);
-				LevelDownOrNot = FMath::RandRange(1, 111);
+				//LevelDownOrNot = FMath::RandRange(1, 111);
 			}
 			break;
 			default:

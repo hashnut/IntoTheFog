@@ -108,7 +108,7 @@ AABSection::AABSection()
 	}
 
 	EnemySpawnTime = 1.0f;
-	NumberOfNpc = 3;
+	NumberOfNpc = 2;
 
 	ItemBoxSpawnTime = 0.5f;
 	NumberOfBox = 30;

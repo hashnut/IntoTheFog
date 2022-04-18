@@ -239,7 +239,7 @@ void AABCharacter::SetCharacterState(ECharacterState NewState)
 			{
 				auto ABGameMode = Cast<AABGameMode>(GetWorld()->GetAuthGameMode());
 				ABCHECK(nullptr != ABGameMode);
-				int32 TargetLevel = FMath::CeilToInt(((float)ABGameMode->GetScore() * 0.9f)) + FMath::RandRange(0, 3);
+				int32 TargetLevel = FMath::CeilToInt(((float)ABGameMode->GetScore() * 0.9f)) + FMath::RandRange(0, 1);
 				int32 FinalLevel = FMath::Clamp<int32>(TargetLevel, 1, 99);
 				ABLOG(Warning, TEXT("New NPC Level : %d"), FinalLevel);
 				CharacterStat->SetNewLevel(FinalLevel);
